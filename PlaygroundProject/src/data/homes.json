@@ -1,0 +1,23 @@
+[
+    {
+        "title": "Appartement Lyon",
+        "city": "Lyon",
+        "surface": 50,
+        "price": 200000,
+        "img": "./img/Lyon.jpg"
+    },
+    {
+        "title": "Appartement Annecy",
+        "city": "Annecy",
+        "surface": 60,
+        "price": 500000,
+        "img": "./img/Annecy.jpg"
+    },
+    {
+        "title": "Appartement Chambery",
+        "city": "Chambery",
+        "surface": 90,
+        "price": 400000,
+        "img": "./img/Chambery.jpg"
+    }
+]
